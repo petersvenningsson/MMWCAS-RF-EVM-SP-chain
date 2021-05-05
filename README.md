@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/python-v3.7-blue) ![](https://shields.io/badge/license-Apache-blue) ![](https://img.shields.io/badge/SP-Radar-brightgreen)
 
 
-Library containing utilities for the SP chain on the TI MMWCAS-RF cascade MIMO evaluation module.
+Utilities for the SP chain on the TI MMWCAS-RF cascade MIMO evaluation module.
 
 Entry points are generators `iterframes()` and `iterframes_processed` in process.py which returns the frames of the virtual array.
 
